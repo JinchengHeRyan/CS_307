@@ -1,0 +1,33 @@
+[submodule "Lab/CS_307_Lab_UnitTest"]
+	path = Lab/CS_307_Lab_UnitTest
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_UnitTest
+[submodule "Lab/CS_307_Lab_JavaFx"]
+	path = Lab/CS_307_Lab_JavaFx
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_JavaFx
+[submodule "Lab/CS_307_Lab_Hangman"]
+	path = Lab/CS_307_Lab_Hangman
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_Hangman
+[submodule "Lab/CS_307_Lab_Debugging"]
+	path = Lab/CS_307_Lab_Debugging
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_Debugging
+[submodule "Lab/CS_307_Lab_Calculator"]
+	path = Lab/CS_307_Lab_Calculator
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_Calculator
+[submodule "Lab/CS_307_Lab_Browser"]
+	path = Lab/CS_307_Lab_Browser
+	url = https://github.com/JinchengHeRyan/CS_307_Lab_Browser
+[submodule "Projects/CS_307_Proj_Simulation"]
+	path = Projects/CS_307_Proj_Simulation
+	url = https://github.com/JinchengHeRyan/CS_307_Proj_Simulation
+[submodule "Projects/CS_307_Proj_Game"]
+	path = Projects/CS_307_Proj_Game
+	url = https://github.com/JinchengHeRyan/CS_307_Proj_Game
+[submodule "Projects/CS_307_Proj_Final"]
+	path = Projects/CS_307_Proj_Final
+	url = https://github.com/JinchengHeRyan/CS_307_Proj_Final
+[submodule "Projects/CS_307_Proj_Data"]
+	path = Projects/CS_307_Proj_Data
+	url = https://github.com/JinchengHeRyan/CS_307_Proj_Data
+[submodule "CS_307_portfolio"]
+	path = CS_307_portfolio
+	url = https://github.com/JinchengHeRyan/CS_307_portfolio
